@@ -15,7 +15,7 @@ def index():
     </head>
     <body>
     <h1>Заголовок</h1>
-    <p><img src="D:\Утилиты\All Projects\Flaskyl\dzen.jpg" alt="Письма мастера дзен"></p>
+    <p><img src="https://github.com/Peteryarusov/Flaskyl/blob/master/dzen.jpg" alt="Письма мастера дзен"></p>
     </body>
     </html>"""
 
