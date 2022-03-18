@@ -15,7 +15,7 @@ def index():
     </head>
     <body>
     <h1>Заголовок</h1>
-    <p><img src="dzen.png" alt="Письма мастера дзен"></p>
+    <p><img src="dzen.jpg" alt="Письма мастера дзен"></p>
     </body>
     </html>"""
 
